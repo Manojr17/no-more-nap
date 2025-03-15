@@ -19,4 +19,10 @@ Download shape_predictor_68_face_landmarks.dat.bz2 (Compressed)
 
 You can use Kaggle, Github or ChatGPT to download dataset.
 
-![Driver Drowsiness Detection](Pictures/drowsinessimage.jpeg)
+![Driver Drowsiness Detection](image/drowsinessimage.jpeg)
+
+Follow me on
+
+<a href="https://instagram.com/.manoj.09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".manoj.09_" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/manoj0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj0902" height="30" width="40" /></a>
